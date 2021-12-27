@@ -1,6 +1,11 @@
 # ferris_bot
 A discord bot created with the sole purpose of handling polls for my server (and now other servers).
 
+Examples:
+
+[![Image from Gyazo](https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif)](https://gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa)
+[![Image from Gyazo](https://i.gyazo.com/8f08c25cd809d0aa42aff327db87ca96.gif)](https://gyazo.com/8f08c25cd809d0aa42aff327db87ca96)
+
 # Commands
 ## poll
     Creates a poll that users can vote on.
@@ -14,6 +19,7 @@ A discord bot created with the sole purpose of handling polls for my server (and
     Example:
       $poll Should we go to the movies today?;Yes;No
 
+  
 ## pollend
     Send a message to ask the author what polls they want to end.
     React to the message to select which poll to end and hit the thumbs up emoji to confirm.

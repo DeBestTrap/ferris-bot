@@ -1,12 +1,10 @@
 # ferris-bot
 A discord bot created with the sole purpose of handling polls for my server (and now other servers).
 
-Examples:
-
-### Voting on two example polls:
-[![Image from Gyazo](https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif)](https://gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa)
-### Deleting a poll:
-[![Image from Gyazo](https://i.gyazo.com/8f08c25cd809d0aa42aff327db87ca96.gif)](https://gyazo.com/8f08c25cd809d0aa42aff327db87ca96)
+## Examples:
+| [![Image from Gyazo](https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif)](https://gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa) | [![Image from Gyazo](https://i.gyazo.com/8f08c25cd809d0aa42aff327db87ca96.gif)](https://gyazo.com/8f08c25cd809d0aa42aff327db87ca96) |
+| :---: | :---: |
+| *Voting on two example polls* | *Deleting a poll* |
 
 # Commands
 ## poll
